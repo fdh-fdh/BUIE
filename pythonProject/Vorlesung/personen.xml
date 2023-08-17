@@ -1,0 +1,14 @@
+<Liste>
+	<Person>
+		<name>Bush</name>
+		<vorname>Georg</vorname>
+	</Person>
+	<Person>
+		<name>Obama</name>
+		<vorname>Barack</vorname>
+	</Person>
+	<Person>
+		<name>Biden</name>
+		<vorname>Joe</vorname>
+	</Person>
+</Liste>

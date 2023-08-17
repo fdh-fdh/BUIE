@@ -1,0 +1,38 @@
+{
+  " header ": {
+      " Datum ": "2022-11-29",
+      " Kurs ": " BUI Ergaenzungskurs "},
+  " data ": [
+            {
+              " Typ ": " Rechteck ",
+              " Eigenschaften ": {
+              " Breite ": 20,
+               " Hoehe ": 10}
+            },
+              {
+             " Typ ": " Rechteck ",
+             " Eigenschaften ": {
+             " Breite ": 62.5,
+             " Hoehe ": 2}
+             },
+             {
+            " Typ ": " Kreis ",
+               " Eigenschaften ": {
+             " Durchmesser ": 12,
+            " Farbe ": " blau ",
+             " Clockwise ": true }
+            },
+            {" Typ ": " Kreis ",
+            " Eigenschaften ": {
+             " Durchmesser ": 0.5,
+             " Farbe ": " gruen ",
+             " Clockwise ": false }
+            },
+            {
+             " Typ ": " Dreieck ",
+             " Eigenschaften ": {
+             " Basis ": 4,
+             " Hoehe ": 2}
+            }
+           ]
+ }

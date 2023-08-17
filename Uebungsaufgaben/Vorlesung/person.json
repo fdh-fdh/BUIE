@@ -1,0 +1,12 @@
+{
+  "firstname": "Donghao",
+  "lastname" : "Fang",
+  "isAlive": true,
+  "age": 27,
+  "address": {
+    "streetAdress": "Miami 21.st street"
+  }
+
+
+
+}
