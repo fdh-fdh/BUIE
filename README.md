@@ -1,6 +1,6 @@
 # BUIE
-coding documentation for bachelor civil and environmental engineering, BUI_E course at TUM, School of engineering and design. 2022
+coding documentation for bachelor civil and environmental engineering, BUI_E course at TUM, School of Engineering and Design. 2022
 
-No garantee for corrtectess. 
-If you find an error, pls open an issue.
+No guarantee of correctness. 
+If you find an error, please open an issue.
 
