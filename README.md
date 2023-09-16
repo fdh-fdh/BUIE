@@ -12,6 +12,6 @@ Video Recommandation
 ```shell
 git clone https://github.com/fdh-fdh/BUIE.git
 ```
-find the repo in the local repositories
+2.Find the repo in the local repositories
 
 
