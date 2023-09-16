@@ -1,4 +1,4 @@
-<img width="700" alt="pic2" src="https://github.com/fdh-fdh/BUIE/blob/main/Readme_image.png">
+<img width="1000" alt="pic2" src="https://github.com/fdh-fdh/BUIE/blob/main/Readme_image.png">
 
 # BUIE
 Coding documentation for bachelor civil and environmental engineering, BUI_E at TUM, School of Engineering and Design. 2022
