@@ -4,3 +4,4 @@ coding documentation for bachelor civil and environmental engineering, BUI_E cou
 No guarantee of correctness. 
 If you find an error, please open an issue.
 
+[https://www.youtube.com/watch?v=AfQztEUSQns&list=PLbFY94gzUJhGkxOUZknWupIiBnY5A0KUM&index=10](Video Recommandation)
