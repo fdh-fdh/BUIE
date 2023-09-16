@@ -2,7 +2,7 @@
 
 # BUIE
 This repo including Coding and practice solution documentation for Bachelor Civil and Environmental engineering module BUI_E at TUM, School of Engineering and Design. 2022
-Please pay attention that current version might be variated from the current Lecture content.
+Please pay attention that this version might be variated from the current Lecture content.
 
 No guarantee of correctness. 
 If you find an error, please open an issue.
