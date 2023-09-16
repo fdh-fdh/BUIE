@@ -4,7 +4,7 @@ Coding documentation for bachelor civil and environmental engineering, BUI_E at 
 No guarantee of correctness. 
 If you find an error, please open an issue.
 
-[https://www.youtube.com/watch?v=AfQztEUSQns&list=PLbFY94gzUJhGkxOUZknWupIiBnY5A0KUM&index=10](Video)
+[Video recommandation](https://www.youtube.com/watch?v=AfQztEUSQns&list=PLbFY94gzUJhGkxOUZknWupIiBnY5A0KUM&index=10)
 
 **To get Started**
 1. Clone this repository by entering follow command into cmd shell
