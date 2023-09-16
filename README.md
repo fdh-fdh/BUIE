@@ -10,7 +10,7 @@ Video Recommandation
 **To get Started**
 1. Clone this repository by entering follwings in to a command window
 ```shell
-git clone https://github.com/RicoGoOne/Negative_diff.git
+git clone https://github.com/fdh-fdh/BUIE.git
 ```
 find the repo in the local repositories
 
