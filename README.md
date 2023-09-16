@@ -1,7 +1,8 @@
 <img width="1000" alt="pic2" src="https://github.com/fdh-fdh/BUIE/blob/main/Readme_image.png">
 
 # BUIE
-Coding documentation for bachelor civil and environmental engineering, BUI_E at TUM, School of Engineering and Design. 2022
+This repo including Coding and practice solution documentation for Bachelor Civil and Environmental engineering module BUI_E at TUM, School of Engineering and Design. 2022
+Please pay attention that current version might be variated from the current Lecture content.
 
 No guarantee of correctness. 
 If you find an error, please open an issue.
